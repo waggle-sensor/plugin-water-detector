@@ -11,7 +11,6 @@ collaborators: "Bhupendra Raut, Dario Dematties Reyes, Joseph Swantek, Neal Conr
 source:
   architectures :
     - linux/arm64
-    - linux/amd64
   url: "https://github.com/nconrad/plugin-water-detector.git"
   build_args:
     SAGE_STORE_URL: "https://osn.sagecontinuum.org"
